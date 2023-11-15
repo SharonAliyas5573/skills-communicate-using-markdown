@@ -10,3 +10,6 @@
 print("Hi,There 👋")
 
 ```
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+- [ ] Turn on GitHub Pages
